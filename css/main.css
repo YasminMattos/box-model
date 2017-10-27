@@ -12,7 +12,7 @@ p{
   text-align: center;
 }
 .box-none {
-  border-color: green
+  border-color: pink;
 }
 .box-hidden {
   visibility: hidden;
