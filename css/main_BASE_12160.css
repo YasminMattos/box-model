@@ -1,5 +1,5 @@
 div{
-  border: 5px purple solid;
+  border: 5px blue solid;
   box-sizing: border-box;
   display: inline-block;
   width: 200px;
@@ -12,14 +12,8 @@ p{
   text-align: center;
 }
 .box-none {
-  border-color: pink;
+  border-color: green
 }
-
 .box-hidden {
   visibility: hidden;
-}
-
-.box-none {
-  border-color: pink;
-  display: none;
 }
