@@ -1,0 +1,22 @@
+div{
+  border: 5px purple solid;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+p{
+  font-size: 20px;
+  text-align: justify;
+}
+
+.box-hidden {
+  visibility: hidden;
+}
+
+.box-none {
+  border-color: pink;
+  display: none;
+}
